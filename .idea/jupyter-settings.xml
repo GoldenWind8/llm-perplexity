@@ -5,19 +5,27 @@
       <list>
         <JupyterConnectionParameters>
           <option name="authType" value="notebook" />
-          <option name="urlString" value="https://2ew6d49rs2idgz-8888.proxy.runpod.net" />
-          <authParams2>
-            <map />
-          </authParams2>
-        </JupyterConnectionParameters>
-        <JupyterConnectionParameters>
-          <option name="authType" value="notebook" />
-          <option name="urlString" value="https://g8vp4rjvt0qt9l-8888.proxy.runpod.net" />
+          <option name="urlString" value="https://xei6g8kof14sfx-8888.proxy.runpod.net" />
           <authParams2>
             <map />
           </authParams2>
         </JupyterConnectionParameters>
       </list>
+    </option>
+    <option name="moduleParameters">
+      <map>
+        <entry key="$PROJECT_DIR$/.idea/myfirst.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="authType" value="notebook" />
+              <option name="urlString" value="https://xei6g8kof14sfx-8888.proxy.runpod.net" />
+              <authParams2>
+                <map />
+              </authParams2>
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
     </option>
   </component>
 </project>
